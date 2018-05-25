@@ -1,0 +1,11 @@
+http://files.serialio.com/download/specs/bluesnap-smart-sku-chart.pdf
+http://files.serialio.com/download/specs/bluesnap-standard-sku-chart.pdf
+http://files.serialio.com/download/specs/scanfob-4000-sku-chart.pdf
+http://files.serialio.com/download/specs/scanfob-3002i-sku-chart.pdf
+http://files.serialio.com/download/specs/scanfob-2006-sku-chart.pdf
+http://files.serialio.com/download/specs/idchamp-rs3-sku-chart.pdf
+http://files.serialio.com/download/specs/wisnap-sku-chart.pdf
+http://files.serialio.com/download/specs/tsl-1128-sku-chart.pdf
+http://files.serialio.com/download/specs/scanfob-ultra-bb2-sku-chart.pdf
+http://files.serialio.com/download/specs/scanfob-nfc-bb2-sku-chart.pdf
+http://files.serialio.com/download/specs/scanfob-qid-sku-chart.pdf
