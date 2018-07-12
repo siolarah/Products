@@ -10,15 +10,22 @@ s|Strikethrough
 abbr|Abbreviation
 details|Details
 span.label|Label (default)
+span.label.primary|Label (primary)
 span.label.alert|Label (alert)
 span.label.warning|Label (warning)
 span.label.success|Label (success)
-span.label.secondary|Label (grey)
+span.label.secondary|Label (secondary)
 span.badge|Badge (default)
+span.badge.primary|Badge (primary)
+span.badge.secondary|Badge (secondary)
+span.badge.alert|Badge (alert)
+span.badge.warning|Badge (warning)
+span.badge.success|Badge (success)
 a.button|Link button
 p.lead|Lead
 div.callout|Callout (default)
+div.callout.primary|Callout (primary)
 div.callout.warning|Callout (warning)
 div.callout.alert|Callout (alert)
 div.callout.success|Callout (success)
-div.callout.secondary|Callout (grey)
+div.callout.secondary|Callout (secondary)
