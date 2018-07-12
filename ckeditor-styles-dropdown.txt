@@ -1,0 +1,24 @@
+button|Button
+code|code
+dfn|Definition
+kbd|Keyboard
+mark|Mark
+small|Small
+samp|Sample output
+var|Variable
+s|Strikethrough
+abbr|Abbreviation
+details|Details
+span.label|Label (default)
+span.label.alert|Label (alert)
+span.label.warning|Label (warning)
+span.label.success|Label (success)
+span.label.secondary|Label (grey)
+span.badge|Badge (default)
+a.button|Link button
+p.lead|Lead
+div.callout|Callout (default)
+div.callout.warning|Callout (warning)
+div.callout.alert|Callout (alert)
+div.callout.success|Callout (success)
+div.callout.secondary|Callout (grey)
