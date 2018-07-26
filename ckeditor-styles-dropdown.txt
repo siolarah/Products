@@ -9,18 +9,6 @@ var|Variable
 s|Strikethrough
 abbr|Abbreviation
 details|Details
-span.label|Label (default)
-span.label.primary|Label (primary)
-span.label.alert|Label (alert)
-span.label.warning|Label (warning)
-span.label.success|Label (success)
-span.label.secondary|Label (secondary)
-span.badge|Badge (default)
-span.badge.primary|Badge (primary)
-span.badge.secondary|Badge (secondary)
-span.badge.alert|Badge (alert)
-span.badge.warning|Badge (warning)
-span.badge.success|Badge (success)
 a.button|Link button
 p.lead|Lead
 div.callout|Callout (default)
@@ -34,6 +22,7 @@ div.media-object-section|Media Object Section (div)
 div.stack-for-small|Stack for small (div)
 div.thumbnail|Thumbnail (div)
 img.thumbnail|Thumbnail (img)
+div.radius.bordered.shadow.card|Pretty Card (div)
 div.card-section|Card Section (div)
 div.card-divider|Card Divider (div)
 div.align-middle|Align Middle (div)
@@ -41,4 +30,19 @@ div.align-bottom|Align Bottom (div)
 div.align-stretch|Align Stretch (div)
 div.align-spaced|Align Spaced (div)
 div.show-for-small-only|Show for small ONLY (div)
-div.align-center-middle|Align Center Middle (div)
+p.hide|Hidden Paragraph
+div.hide|Hidden Div
+
+— — not used — —
+span.label|Label (default)
+span.label.primary|Label (primary)
+span.label.alert|Label (alert)
+span.label.warning|Label (warning)
+span.label.success|Label (success)
+span.label.secondary|Label (secondary)
+span.badge|Badge (default)
+span.badge.primary|Badge (primary)
+span.badge.secondary|Badge (secondary)
+span.badge.alert|Badge (alert)
+span.badge.warning|Badge (warning)
+span.badge.success|Badge (success)
