@@ -1,0 +1,272 @@
+— — — — — — — — — — — 
+Current (Category)
+— — — — — — — — — — — 
+Sales
+	Lead
+	Question
+	PO
+	Solution Request
+	Proposal
+	Other
+Support
+	General Question
+	Licensing
+		General Licensing Question
+		License Activation
+		License Reset
+		Other Licensing
+	Online Store
+	Serialio Policies/Information
+	Cloud-In-Hand
+	SerialMagic
+	Mobile Application
+	Barcode Scanners
+	RFID Readers
+	Adapters
+	SDK/API
+	Other Support
+	RMA
+		Question
+		Problem
+		RMA Request
+		Status Update
+		Other RMA
+Cloud-In-Hand Support
+	Account Problem
+		Forgot Password
+		Adding/Removing Device IDs
+		Managing Users
+		MGAP
+		Database
+	Grid Problem
+		Uploading
+		Grid Columns
+		Grid Search
+	App Problem
+	Other Cloud-In-Hand 
+Other
+
+
+
+— — — — — — — — — — — 
+Current (Product)
+— — — — — — — — — — — 
+Cloud-In-Hand®
+	Account
+		Attendance
+		Ordering
+		Mustering
+		Inventory
+		Other
+	Mobile Application
+		Mobile Grid for Android
+		Mobile Attendance for Android
+		Mobile Order for Android
+		Mobile Grid for iOS
+Barcode Scanners
+	Scanfob 2006
+	Scanfob 2005*
+	Scanfob 2002*
+	KeyBatch BR2
+	KeyBatch BR1*
+	Scanfob 3002i
+	Scanfob 4000i
+	Scanfob 4000n
+	Scanfob CS3070
+	KDC20
+	KDC100
+	KDC200
+	KDC300
+	KDC400
+	Other Barcode Scanner
+RFID/NFC/UHF Readers
+	idChamp RS2*
+	idChamp RS3
+	idChamp RS4
+	idChamp 1862
+	idChamp UHF 1126
+	idChamp 1153
+	idChamp DX1
+	idChamp 1128
+	idChamp USB
+	Scanfob NFC-BB2 (Classic)
+	Scanfob NFC-BB2i
+	Scanfob NFC-BB2e (LE)
+	Scanfob Ultra-BB2 (Classic)
+	Scanfob Ultra-BB2i
+	Scanfob Ultra-BB2e (LE)
+	Scanfob qID
+	IP30
+	ICEKEY
+	Trimble Juno T41
+	Ultra-LR1 GEN 2
+	Intermec
+	vWand
+	Other RFID Reader/Writer
+Applications/Software
+	iOS
+		RS3-NFC Setup
+		Mobile Order
+		SerialMagic Keys
+		iScanBrowser
+		Inspect RRC
+		Other
+	Android
+		SerialMagic Gears
+		Mobile Grid
+		Mobile Attendance
+		Mobile Order
+		RS3-NFC Setup
+		iScanBrowser
+		WiSnap Tool
+		Inspect RRC
+		Other
+	Windows
+		SerialMagic Professional
+		Other
+	Mac OS X
+		SerialMagic Professional
+		Other
+Cables & Adapters
+	WiSnap
+		WiSnap AAA
+		WiSnap (no batteries)
+		Other WiSnap Module
+	BlueSnap
+		BlueSnap 2.1
+		BlueSnap AAA
+		BlueSnap 4.0 (BLE)
+		BlueSnapXP
+		BlueSnap USB
+		BlueSnap SPP-KEY Bridge
+		Other BlueSnap Module
+	Other Adapters
+	Other Cables
+Serialio Java Libraries
+	Mac
+	Windows
+	Linux
+	Multiple
+	Other
+Tags & Cards
+	RFID/NFC Tags
+	RFID/NFC Cards
+Other
+
+
+
+
+— — — — — — — — 
+Type
+— — — — — — — — 
+Sales
+	Lead
+	Question
+	PO
+	Solution Request
+	Proposal
+	Other (sales)
+Support
+	Products
+	Orders
+	Returns (RMA)
+	Licensing
+	Policies
+	Incident
+	Ongoing problem
+	API
+	Other (support)
+Other
+
+— — — — — — — — 
+Products
+— — — — — — — — 
+Barcode Scanners
+	Scanfob 2006
+	KeyBatch BR2
+	Scanfob 3002i
+	Scanfob 4000i
+	Scanfob 4000n
+	Scanfob CS3070
+	KDC20
+	KDC100
+	KDC200
+	KDC300
+	KDC400
+	Scanfob 2005*
+	Scanfob 2002*
+	KeyBatch BR1*
+RFID/NFC/UHF Readers
+	idChamp RS3
+	idChamp RS4
+	idChamp NF2
+	idChamp 1862
+	idChamp UHF 1126
+	idChamp 1153
+	idChamp DX1
+	idChamp 1128
+	idChamp USB
+	Scanfob NFC-BB2
+		Scanfob NFC-BB2 (Standard)
+		Scanfob NFC-BB2i (MFi)
+		Scanfob NFC-BB2e (LE)
+	Scanfob Ultra-BB2
+		Scanfob Ultra-BB2 (Standard)
+		Scanfob Ultra-BB2i (MFi)
+		Scanfob Ultra-BB2e (LE)
+	Scanfob qID
+	IP30
+	ICEKEY
+	Trimble Juno T41
+	Ultra-LR1 GEN 2
+	Ultra-PD1
+	Intermec
+	vWand
+	idChamp RS2*
+RFID Tags/Cards
+Adapters / Cables
+	WiSnap
+	BlueSnap Standard
+	BlueSnap Smart
+	BlueSnapXP
+	BlueSnap USB
+	BlueSnap SPP-KEY Bridge
+	RS-232 to USB cable
+Other
+
+— — — — — — — — 
+Software
+— — — — — — — — 
+SerialMagic Professional
+	Windows
+	Mac OS X
+SerialMagic Gears
+SerialMagic Keys
+	Android
+	iOS
+iScanBrowser
+	Android
+	iOS	
+RS3-NFC Setup
+	Android
+	iOS
+yACK BLE
+	Android
+	iOS
+Cloud-In-Hand applications
+	Mobile Grid
+		Android
+		iOS
+	Mobile Attendance
+	Mobile Order
+		Android
+		iOS
+	Custom or whitelabel app
+		Android
+		iOS
+Serialio Java Libraries
+	Mac
+	Windows
+	Linux
+	Multiple
+	Other
